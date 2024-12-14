@@ -1,11 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm SHIVRAJ SONI</h1>
-<h3 align="center">LEARNING CODING FOR FUN</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajsoni&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajsoni" /> </p>
 
-- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **shivrajsoni0902005@gmail.com**
 
