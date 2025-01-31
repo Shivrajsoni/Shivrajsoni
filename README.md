@@ -15,44 +15,44 @@ Learning Web3 and Devops !!
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/Shivrajsoni">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
+         src="https://streak-stats.demolab.com?user=Shivrajsoni&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/Shivrajsoni">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnnlik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivrajSoni&theme=aura"
     />
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/Shivrajsoni">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnnlik&theme=aura"
-    />
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=aura&utcOffset=8"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivrajsoni&theme=aura"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/nnnLik">
+  <a href="https://github.com/ShivrajSoni">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivrajSoni&theme=aura"
+    />
+  <a href="https://github.com/Shivrajsoni">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivrajsoni&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/Shivrajsoni">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivrajsoni&theme=aura"
     />
 </p>
 
@@ -66,7 +66,7 @@ Learning Web3 and Devops !!
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nnnLik}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Shivrajsoni}/count.svg" /></p> 
 <br></div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
