@@ -6,13 +6,11 @@
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
 <!--         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br> -->
-        Full-stack Developer 
+        Full-Stack Developer 
     </h3>
 </a>
 
 Learning Web3 and Devops !!
-
-### 📈 GitHub Activity Graph:
 
 <p align="center">
   <a href="https://github.com/Shivrajsoni">
