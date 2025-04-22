@@ -10,7 +10,7 @@
     </h3>
 </a>
 
-Learning Web3 and Devops !!
+Learning Web3 
 
 <p align="center">
   <a href="https://github.com/Shivrajsoni">
