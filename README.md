@@ -9,9 +9,6 @@
         Full-Stack Developer 
     </h3>
 </a>
-
-Learning Web3 
-
 <p align="center">
   <a href="https://github.com/Shivrajsoni">
     <img align="center"
