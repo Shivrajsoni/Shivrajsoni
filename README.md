@@ -6,7 +6,7 @@
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
 <!--         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br> -->
-        BatMan 
+        Learning Devops
     </h3>
 </a>
 <p align="center">
