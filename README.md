@@ -3,12 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Shivraj;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-<!--         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br> -->
-<!--         Learning Devops -->
-    </h3>
-</a>
+
 <p align="center">
   <a href="https://github.com/Shivrajsoni">
     <img align="center"
