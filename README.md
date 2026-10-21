@@ -10,7 +10,7 @@ BE CSE student at UIET, Panjab University. I build systems in **Rust** and **Pyt
 
 Strongest first.
 
-1. **[Wispr](https://github.com/Shivrajsoni/Wispr)** (Rust)
+1. **[Wispr](https://github.com/Shivrajsoni/Wispr)** 
    My Wispr Flow
    `Rust` `Obsidian` 
 
