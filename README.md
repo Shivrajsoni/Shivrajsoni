@@ -1,4 +1,4 @@
-# Hi, I'm Shivraj 👋
+# Hi, I'm Shivraj 
 
 BE CSE student at UIET, Panjab University. I build systems in **Rust** and **Python**, and I'm working toward AI engineering.
 
