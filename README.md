@@ -59,7 +59,7 @@ Strongest first.
 ## Currently
 
 - Learning ML from scratch: [computer-vision](https://github.com/Shivrajsoni/computer-vision), [nn-lectures-karpathy](https://github.com/Shivrajsoni/nn-lectures-karpathy), [ai-learning](https://github.com/Shivrajsoni/ai-learning)
-- Daily driver: Neovim ([dotfiles](https://github.com/Shivrajsoni/dotfiles))
+
 
 ---
 
