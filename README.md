@@ -1,65 +1,26 @@
-# Hi, I'm Shivraj 
+# Hi, I'm Shivraj
 
-BE CSE student at UIET, Panjab University. I build systems in **Rust** and **Python**, and I'm working toward AI engineering.
+BE CSE student at UIET, Panjab University. I'm working toward AI engineering.
 
 [Website](https://shivraj.live) · [LinkedIn](https://linkedin.com/in/shivraj-soni-34572b226) · [Email](mailto:shivrajsoni09022005@gmail.com)
 
 ---
 
-## Things I've built
+## Projects
 
-Strongest first.
+**[Wispr](https://github.com/Shivrajsoni/Wispr)**  
+My own Wispr Flow.  
+`Rust` `Obsidian`
 
-1. **[Wispr](https://github.com/Shivrajsoni/Wispr)** 
-   My Wispr Flow
-   `Rust` `Obsidian` 
+**[computer-vision](https://github.com/Shivrajsoni/computer-vision)**  
+Computer vision, learned and built from scratch.
 
-3. **[fake-email](https://github.com/Shivrajsoni/fake-email)** · [live](https://fake-email.site)
-   Temporary email service: create an address, receive real mail over SMTP, read it in the browser.
-   `Rust` `Next.js` `Postgres` `AWS EC2`
+**[ai-learning](https://github.com/Shivrajsoni/ai-learning)**  
+Notes and experiments from learning AI and ML.
 
-4. **[PU Sahayak](https://github.com/Shivrajsoni/synopsis-project)**
-   RAG-based AI assistant for Panjab University (UIET).
-   `Python` `FastAPI` `ChromaDB`
-
-5. **[Bittorrent](https://github.com/Shivrajsoni/Bittorrent)**
-   BitTorrent client implementing the peer wire protocol, written from scratch.
-   `Rust`
-
-6. **[dns-resolver](https://github.com/Shivrajsoni/dns-resolver)**
-   Minimal DNS resolver that builds and parses queries by hand.
-   `Rust`
-
-7. **[Xedis](https://github.com/Shivrajsoni/Xedis)**
-   Redis clone.
-   `Rust`
-
-8. **[xit](https://github.com/Shivrajsoni/xit)**
-   Git implementation.
-   `Rust`
-
-9. **[xUI](https://github.com/Shivrajsoni/xUI)** · [live](https://x-ui-self.vercel.app)
-   UI component experiments.
-   `TypeScript`
-
-10. **[aibot](https://github.com/Shivrajsoni/aibot)** · [live](https://aibot-shiv.vercel.app/)
-   AI chat app.
-   `TypeScript`
-
-11. **[gpt-tokenizer](https://github.com/Shivrajsoni/gpt-tokenizer)**
-    Tokenizer built from scratch while learning how LLMs work.
-    `Python`
-
-12. **[markdown-html-parser](https://github.com/Shivrajsoni/markdown-html-parser)**
-    Converts Markdown to HTML.
-    `Rust`
-
----
-
-## Currently
-
-- Learning ML from scratch: [computer-vision](https://github.com/Shivrajsoni/computer-vision), [nn-lectures-karpathy](https://github.com/Shivrajsoni/nn-lectures-karpathy), [ai-learning](https://github.com/Shivrajsoni/ai-learning)
-
+**[fake-email](https://github.com/Shivrajsoni/fake-email)**  
+Temporary email service: create an address, receive real mail over SMTP, and read it in the browser.  
+`Rust` `Next.js` `Postgres` `AWS EC2`
 
 ---
 
