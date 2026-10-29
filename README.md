@@ -1,6 +1,6 @@
 # Hi, I'm Shivraj
 
-BE CSE student at UIET, Panjab University. I'm working toward AI engineering.
+BE CSE student at UIET, Panjab University. I build systems in Rust and Python, and I'm working toward AI engineering.
 
 [Website](https://shivraj.live) · [LinkedIn](https://linkedin.com/in/shivraj-soni-34572b226) · [Email](mailto:shivrajsoni09022005@gmail.com)
 
@@ -19,6 +19,12 @@ Notes and experiments from learning AI and ML.
 
 **[fake-email](https://github.com/Shivrajsoni/fake-email)**  
 Temporary email service: create an address, receive real mail over SMTP, and read it in the browser.  
+
+**[Bittorrent](https://github.com/Shivrajsoni/Bittorrent)**  
+BitTorrent client written in Rust.  
+
+**[dns-resolver](https://github.com/Shivrajsoni/dns-resolver)**  
+DNS resolver written in Rust.  
 
 
 ---
