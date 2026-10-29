@@ -10,7 +10,6 @@ BE CSE student at UIET, Panjab University. I'm working toward AI engineering.
 
 **[Wispr](https://github.com/Shivrajsoni/Wispr)**  
 My own Wispr Flow.  
-`Rust` `Obsidian`
 
 **[computer-vision](https://github.com/Shivrajsoni/computer-vision)**  
 Computer vision, learned and built from scratch.
@@ -20,7 +19,7 @@ Notes and experiments from learning AI and ML.
 
 **[fake-email](https://github.com/Shivrajsoni/fake-email)**  
 Temporary email service: create an address, receive real mail over SMTP, and read it in the browser.  
-`Rust` `Next.js` `Postgres` `AWS EC2`
+
 
 ---
 
